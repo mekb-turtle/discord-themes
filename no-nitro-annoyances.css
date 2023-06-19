@@ -1,0 +1,18 @@
+a[class^="link"][data-list-item-id^="private-channels-uid"][href="/store"],
+button[aria-label="Send a gift"],
+div[class^="premiumFeatureBorder-"],
+div[class^="upsellOverlayContainer-"],
+div[class^="bannerNitroUpsell-"],
+div[class^="upsellBanner-"],
+div[class^="tierCtaContainer-"],
+div[class^="premiumPromo-"],
+div#message-actions-add-reaction-1[class*=" colorPremiumGradient-"][role="menuitem"],
+button#super-reaction-picker-tab,
+div[class^="button-"][aria-label="Add Super Reaction"][role="button"],
+div[class^="notice-"][class*=" colorPremiumTier2-"][class*=" colorPremium-"],
+a[class^="link"][data-list-item-id^="private-channels-uid"][href="/activities"],
+div[class^="birthdayFeatureBorder-"][class*=" featureBorder-"][class*=" customizationSectionBorder-"],
+div[class^="profileCustomizationSection-"] div[class^="baseLayout-"] div[class^="sectionsContainer-"] div[class^="customizationSection-"][class*=" showBorder-"],
+div[class^="reactions-"][id^="message-reactions-"] > div[aria-label] + div[aria-label] {
+    display: none;
+}
