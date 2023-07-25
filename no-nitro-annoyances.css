@@ -13,6 +13,7 @@ div[class^="notice-"][class*=" colorPremiumTier2-"][class*=" colorPremium-"],
 a[class^="link"][data-list-item-id^="private-channels-uid"][href="/activities"],
 div[class^="birthdayFeatureBorder-"][class*=" featureBorder-"][class*=" customizationSectionBorder-"],
 div[class^="profileCustomizationSection-"] div[class^="baseLayout-"] div[class^="sectionsContainer-"] div[class^="customizationSection-"][class*=" showBorder-"],
-div[class^="reactions-"][id^="message-reactions-"] > div[aria-label] + div[aria-label] {
+div[class^="reactions-"][id^="message-reactions-"] > div[aria-label] + div[aria-label],
+div[class^="premiumLabel-"] div[class^="badgeContainer-"]:has(div[class^="bogoTrialBadge-2-"]) {
     display: none;
 }
