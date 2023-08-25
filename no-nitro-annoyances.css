@@ -14,6 +14,8 @@ a[class^="link"][data-list-item-id^="private-channels-uid"][href="/activities"],
 div[class^="birthdayFeatureBorder-"][class*=" featureBorder-"][class*=" customizationSectionBorder-"],
 div[class^="profileCustomizationSection-"] div[class^="baseLayout-"] div[class^="sectionsContainer-"] div[class^="customizationSection-"][class*=" showBorder-"],
 div[class^="reactions-"][id^="message-reactions-"] > div[aria-label] + div[aria-label],
-div[class^="premiumLabel-"] div[class^="badgeContainer-"]:has(div[class^="bogoTrialBadge-2-"]) {
+div[class^="premiumLabel-"] div[class^="badgeContainer-"]:has(div[class^="bogoTrialBadge-2-"]),
+div[class^="contents-"] > div[class^="sparkleContainer-"] > svg[class^="sparkleStar-"],
+div[class^="contents-"] > div[class^="sparkleContainer-"] > svg[class^="sparklePlus-"] {
     display: none;
 }
