@@ -16,6 +16,12 @@ div[class^="profileCustomizationSection-"] div[class^="baseLayout-"] div[class^=
 div[class^="reactions-"][id^="message-reactions-"] > div[aria-label] + div[aria-label],
 div[class^="premiumLabel-"] div[class^="badgeContainer-"]:has(div[class^="bogoTrialBadge-2-"]),
 div[class^="contents-"] > div[class^="sparkleContainer-"] > svg[class^="sparkleStar-"],
-div[class^="contents-"] > div[class^="sparkleContainer-"] > svg[class^="sparklePlus-"] {
+div[class^="contents-"] > div[class^="sparkleContainer-"] > svg[class^="sparklePlus-"],
+div[class^="layerContainer-"] > div[id^="popout_"] > div > div > div[class^="content-"][class*=" contentNoArt-"][class*=" contentPremium-"],
+#app-mount > div[class^="appAsidePanelWrapper-"] > div[class^="notAppAsidePanel-"] > div[class^="app-"] > div > div[class^="layers-"][class*=" layers-"] > div > div > div > div > div > nav > div[class^="scroller-"][class*=" thin-"][class*=" scrollerBase-"][class*=" fade-"] > ul > li:nth-child(3) > div > a > div[class^="badgeContainer-"],
+#profile-customization-tab > div[class^="container-"][class*=" premiumFeatureBannerBackground-"][class*=" containerDefaultMargin-"],
+#app-mount > div[class^="appAsidePanelWrapper-"] > div[class^="notAppAsidePanel-"] > div[class^="app-"] > div > div[class^="layers-"][class*=" layers-"] > div:nth-child(2) > div > div[class^="sidebarRegion"] > div > nav > div > div[class^="premiumTab-"][class*=" item-"][class*=" themed-"] > div[class^="premiumLabel-"] > svg,
+div[class^="item-"][role="tab"] > div[class^="tabBarItemContainer-"] > div[class^="premiumBadge-"][class*=" textBadge-"][class*=" base-"][class*=" eyebrow-"][class*=" baseShapeRound-"],
+#app-mount > div[class^="appAsidePanelWrapper-"] > div[class^="notAppAsidePanel-"] > div[class^="app-"] > div > div[class^="layers-"][class*=" layers-"] > div:nth-child(2) > div > div[class^="sidebarRegion"] > div > nav > div > div[class^="premiumTab-"] > div[class^="background-"][class*=" selectedBackground-"] {
     display: none;
 }
