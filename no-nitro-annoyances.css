@@ -1,4 +1,5 @@
-a[class^="link"][data-list-item-id^="private-channels-uid"][href="/store"],
+ul[role="list"] > li[class^="channel_"] > div[class^="interactive_"] > a[class^="link"][data-list-item-id^="private-channels-uid"][href="/store"],
+ul[role="list"] > li[class^="channel_"] > div[class^="interactive_"] > a[class^="link"][data-list-item-id^="private-channels-uid"][href="/shop"],
 button[aria-label="Send a gift"],
 div[class^="premiumFeatureBorder-"],
 div[class^="upsellOverlayContainer-"],
