@@ -38,6 +38,7 @@ span[id^="message-username-"][class^="headerText_"][class*=" hasRoleIcon_"] > di
 div[class^="tabBarItemContainer_"] > div[class^="premiumBadge_"][class*=" textBadge_"][class*=" baseShapeRound_"],
 #app-mount > div[class^="appAsidePanelWrapper_"] > div[class^="notAppAsidePanel_"] > div[class^="layerContainer_"] > div[class^="layer_"]:has(div > div > div[class^="trialPill_"][class*=" freeTrialPillWithSparkles_"]),
 #app-mount > div[class^="appAsidePanelWrapper__"] > div[class^="notAppAsidePanel__"] > div:nth-child(4) > div[class^="layer_"] > div > div > div[class^="content__"][class*=" content__"][class*=" thin_"][class*=" scrollerBase_"] > div[class^="contentContainer__"] > div[class^="gradientUpsellWrapper__"][class*=" gradientUpsellWrapperTier2_"],
-ul[role="list"][class^="content_"] > div[class^="container_"]:not([class*="channel"]):not([class*="friends"]) {
+ul[role="list"][class^="content_"] > div[class^="container_"]:not([class*="channel"]):not([class*="friends"]),
+div[class^="notAppAsidePanel_"] > div[class^="layerContainer_"] > div[id^="popout_"][class^="theme-"][class*="images-"] {
     display: none;
 }
