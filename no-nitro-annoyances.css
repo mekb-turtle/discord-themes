@@ -13,6 +13,8 @@ div[class^="page_"] > div > div[class^="chat_"] > div[class^="content_"] > main[
 div[class^="sidebarList_"] > nav[class^="container__"] > div[class^="scroller_"] > ul[class^="content__"] > div[class^="container__"][role="button"], /* boost progress in server sidebar */
 div[class^="appAsidePanelWrapper_"] > div[class^="notAppAsidePanel_"] > div[class^="layerContainer_"]:has(div[class^="layer_"] > div[class^="focusLock__"] > div[class^="root"] > video[class^="heroAsset__"]), /* discord orbs fullscreen pop-up */
 div[class^="appAsidePanelWrapper_"] > div[class^="notAppAsidePanel_"] > div[class^="layerContainer_"]:has(div[class^="clickTrapContainer_"] > div[id^="popout"] > div > div > div[class*=" contentNoArt_"] > div[role="button"] > button[class^="button__"][class*=" lookBlank_"]), /* discord orbs pop-up above profile area */
+div[class^="callContainer_"] > div[class^="root_"] > div > div[class^="flex__"] > div[class^="scroller_"] > div[class^="listItems"][role="list"] > div[class^="row_"] > div[class^="tile_"] > div[class^="tileSizer_"]:has(div[class^="root_"] > div[class^="activitiesContainer__"]), /* start activity nag in VC */
+div[class^="callContainer_"] > div[class^="root_"] > div > div[class^="flex__"] > div[class^="scroller_"] > div[class^="listItems"][role="list"] > div[class^="row_"] > div[class^="tile_"] > div[class^="tileSizer_"]:has(div[class^="root_"] > div[class^="clickableTile_"]):has(div[class*=" shelfButtonCloseButton__"]), /* start activity nag in VC when call screen is small enough */
 asdsadsa[dsadas] /* prevent commas from being in git diff */
 {
     display: none;
