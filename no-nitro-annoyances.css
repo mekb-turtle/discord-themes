@@ -11,7 +11,8 @@ div[class^="page_"] > div > div[class^="chat_"] > div[class^="content_"] > main[
 div[class^="page_"] > div > div[class^="chat_"] > div[class^="content_"] > main[class^="chatContent_"] > form[class^="form_"] > div > div[class^="channelBottomBarArea_"] > div[class^="channelTextArea_"] > div > div[class^="inner_"] > div[class^="buttons__"] > div[class^="channelAppLauncher_"], /* app launcher in chat box */
 div[class^="page_"] > div > div[class^="chat_"] > div[class^="content_"] > main[class^="chatContent_"] > form[class^="form_"] > div > div[class^="channelBottomBarArea_"] > div[class^="channelTextArea_"] > div > div[class^="inner_"] > div[class^="buttons__"] > div[class^="expression-picker-chat-input-button"]:has(div[class*=" stickerButton"]), /* sticker button */
 div[class^="sidebarList_"] > nav[class^="container__"] > div[class^="scroller_"] > ul[class^="content__"] > div[class^="container__"][role="button"], /* boost progress in server sidebar */
-div[class^="appAsidePanelWrapper_"] > div[class^="notAppAsidePanel_"] > div[class^="layerContainer_"]:has(div[class^="layer_"] > div[class^="focusLock__"] > div[class^="root"] > video[class^="heroAsset__"]), /* discord orbs pop-up */
+div[class^="appAsidePanelWrapper_"] > div[class^="notAppAsidePanel_"] > div[class^="layerContainer_"]:has(div[class^="layer_"] > div[class^="focusLock__"] > div[class^="root"] > video[class^="heroAsset__"]), /* discord orbs fullscreen pop-up */
+div[class^="appAsidePanelWrapper_"] > div[class^="notAppAsidePanel_"] > div[class^="layerContainer_"]:has(div[class^="clickTrapContainer_"] > div[id^="popout"] > div > div > div[class*=" contentNoArt_"] > div[role="button"] > button[class^="button__"][class*=" lookBlank_"]), /* discord orbs pop-up above profile area */
 asdsadsa[dsadas] /* prevent commas from being in git diff */
 {
     display: none;
