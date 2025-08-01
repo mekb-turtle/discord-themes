@@ -1,43 +1,18 @@
-ul[role="list"] > li[class^="channel_"] > div[class^="interactive_"] > a[class^="link"][data-list-item-id^="private-channels-uid"][href="/store"],
-ul[role="list"] > li[class^="channel_"] > div[class^="interactive_"] > a[class^="link"][data-list-item-id^="private-channels-uid"][href="/shop"],
-button[aria-label="Send a gift"],
-div[class^="premiumFeatureBorder-"],
-div[class^="upsellOverlayContainer-"],
-div[class^="bannerNitroUpsell-"],
-div[class^="upsellBanner-"],
-div[class^="tierCtaContainer-"],
-div[class^="premiumPromo-"],
-div#message-actions-add-reaction-1[class*=" colorPremiumGradient-"][role="menuitem"],
-button#super-reaction-picker-tab,
-div[class^="button-"][aria-label="Add Super Reaction"][role="button"],
-div[class^="notice-"][class*=" colorPremiumTier2-"][class*=" colorPremium-"],
-a[class^="link"][data-list-item-id^="private-channels-uid"][href="/activities"],
-div[class^="birthdayFeatureBorder-"][class*=" featureBorder-"][class*=" customizationSectionBorder-"],
-div[class^="profileCustomizationSection-"] div[class^="baseLayout-"] div[class^="sectionsContainer-"] div[class^="customizationSection-"][class*=" showBorder-"],
-div[class^="reactions-"][id^="message-reactions-"] > div[aria-label] + div[aria-label],
-div[class^="premiumLabel-"] div[class^="badgeContainer-"]:has(div[class^="bogoTrialBadge-2-"]),
-div[class^="contents-"] > div[class^="sparkleContainer-"] > svg[class^="sparkleStar-"],
-div[class^="contents-"] > div[class^="sparkleContainer-"] > svg[class^="sparklePlus-"],
-div[class^="layerContainer-"] > div[id^="popout_"] > div > div > div[class^="content-"][class*=" contentNoArt-"][class*=" contentPremium-"],
-#app-mount > div[class^="appAsidePanelWrapper-"] > div[class^="notAppAsidePanel-"] > div[class^="app-"] > div > div[class^="layers-"][class*=" layers-"] > div > div > div > div > div > nav > div[class^="scroller-"][class*=" thin-"][class*=" scrollerBase-"][class*=" fade-"] > ul > li:nth-child(3) > div > a > div[class^="badgeContainer-"],
-#profile-customization-tab > div[class^="container-"][class*=" premiumFeatureBannerBackground-"][class*=" containerDefaultMargin-"],
-#app-mount > div[class^="appAsidePanelWrapper-"] > div[class^="notAppAsidePanel-"] > div[class^="app-"] > div > div[class^="layers-"][class*=" layers-"] > div:nth-child(2) > div > div[class^="sidebarRegion"] > div > nav > div > div[class^="premiumTab-"][class*=" item-"][class*=" themed-"] > div[class^="premiumLabel-"] > svg,
-div[class^="item-"][role="tab"] > div[class^="tabBarItemContainer-"] > div[class^="premiumBadge-"][class*=" textBadge-"][class*=" base-"][class*=" eyebrow-"][class*=" baseShapeRound-"],
-#app-mount > div[class^="appAsidePanelWrapper-"] > div[class^="notAppAsidePanel-"] > div[class^="app-"] > div > div[class^="layers-"][class*=" layers-"] > div:nth-child(2) > div > div[class^="sidebarRegion"] > div > nav > div > div[class^="premiumTab-"] > div[class^="background-"][class*=" selectedBackground-"],
-div[class^="chat-"] > div[class^="content-"] > aside > div > div > div[class^="containerWrapper-"][class*=" animation-"][class*=" inSidebar-"][class*=" withoutAvatar-"],
-#app-mount > div[class^="appAsidePanelWrapper-"] > div[class^="notAppAsidePanel-"] > div[class^="app-"] > div > div[class^="layers-"][class*=" layers-"] > div > div > div > div > div[class^="chat-"] > div[class^="content-"] > aside > div > div > div > div:nth-child(1) > svg > foreignObject > div > div,
-#app-mount > div[class^="appAsidePanelWrapper-"] > div[class^="notAppAsidePanel-"] > div[class^="app-"] > div > div[class^="layers-"][class*=" layers-"] > div > div > div > div > div[class^="chat-"] > div[class^="content-"] > aside > div > div > div > div:nth-child(1) > div[class^="profileEffects-"],
-div[class^="userPopoutInner-"][class*=" userProfileInner-"][class*=" userProfileInnerThemedWithBanner-"] > svg[class^="bannerSVGWrapper-"] > foreignObject > div[class^="banner-"][class*=" popoutBannerPremium-"][class*=" bannerPremium-"][class*=" roundedBanner-"][class*=" reducedMotion-"] > div[class^="premiumIconWrapper-"][class*=" clickable-"],
-div[class^="userPopoutInner-"][class*=" userProfileInner-"][class*=" userProfileInnerThemedWithBanner-"] > div[class^="profileEffects-"],
-div[class^="userPopoutInner-"][class*=" userProfileInner-"][class*=" userProfileInnerThemedWithBanner-"] > div[class^="containerWrapper-"][class*=" animation-"][class*=" withoutAvatar-"],
-#app-mount > div[class^="appAsidePanelWrapper-"] > div[class^="editor-"][class*=" editorAnimate-"],
-#app-mount > div[class^="appAsidePanelWrapper-"] > div[class^="notAppAsidePanel-"] > div[class^="app-"] > div[class^="app-"] > div[class^="layers-"][class*=" layers-"] > div[class^="layer-"] > div[class^="standardSidebarView-"] > div[class^="contentRegion-"] > div[class^="contentTransitionWrap-"] > div[class^="contentRegionScroller-"][class*=" contentRegionShownSidebar-"][class*=" auto-"][class*=" scrollerBase-"] > div#appearance-tab[class^="contentColumn-"][class*=" contentColumnDefault-"] > div > div[class^="children-"] > div[class^="marginTop8-"]:nth-of-type(2) > div:nth-of-type(1) > div > section:nth-of-type(2),
-#app-mount > div[class^="appAsidePanelWrapper-"] > div[class^="notAppAsidePanel-"] > div[class^="app-"] > div[class^="app-"] > div[class^="layers-"][class*=" layers-"] > div[class^="layer-"] > div[class^="standardSidebarView-"] > div[class^="contentRegion-"] > div[class^="contentTransitionWrap-"] > div[class^="contentRegionScroller-"][class*=" contentRegionShownSidebar-"][class*=" auto-"][class*=" scrollerBase-"] > div#appearance-tab[class^="contentColumn-"][class*=" contentColumnDefault-"] > div > div[class^="children-"] > div[class^="marginTop8-"]:nth-of-type(2) > div:nth-of-type(2),
-#app-mount > div[class^="appAsidePanelWrapper_"] > div[class^="notAppAsidePanel_"] > div[class^="app_"] > div[class^="app_"] > div[class^="layers_"][class*="layers_"] > div[class^="layer_"] > div[class^="standardSidebarView_"] > div[class^="sidebarRegion_"] > div[class^="sidebarRegionScroller_"][class*="thin_"][class*="scrollerBase_"][class*="fade_"] > nav[class^="sidebar_"] > div[class^="side_"] > div[class^="premiumTab_"][class*="item_"][class*="themed_"] > div[class^="premiumLabel_"] > div[class^="premiumTrialBadge_"][class*="premiumTrialAcknowledgedBadge_"],
-span[id^="message-username-"][class^="headerText_"][class*=" hasRoleIcon_"] > div[class^="nitroAuthorBadgeContainer_"],
-div[class^="tabBarItemContainer_"] > div[class^="premiumBadge_"][class*=" textBadge_"][class*=" baseShapeRound_"],
-#app-mount > div[class^="appAsidePanelWrapper_"] > div[class^="notAppAsidePanel_"] > div[class^="layerContainer_"] > div[class^="layer_"]:has(div > div > div[class^="trialPill_"][class*=" freeTrialPillWithSparkles_"]),
-#app-mount > div[class^="appAsidePanelWrapper__"] > div[class^="notAppAsidePanel__"] > div:nth-child(4) > div[class^="layer_"] > div > div > div[class^="content__"][class*=" content__"][class*=" thin_"][class*=" scrollerBase_"] > div[class^="contentContainer__"] > div[class^="gradientUpsellWrapper__"][class*=" gradientUpsellWrapperTier2_"],
-ul[role="list"][class^="content_"] > div[class^="container_"]:not([class*="channel"]):not([class*="friends"]) {
+li[class^="channel__"][class*=" container_"][role="listitem"] > div[class^="interactive_"] > a[data-list-item-id^="private-channels-"][href="/store"], /* channel list Nitro */
+li[class^="channel__"][class*=" container_"][role="listitem"] > div[class^="interactive_"] > a[data-list-item-id^="private-channels-"][href="/shop"], /* channel list Store */
+nav[class^="sidebar__"] > div[class^="side_"] > div[class^="item_"] > div[class^="tabBarItemContainer_"] > div[class^="textBadge_"][class*=" baseShapeRound_"], /* "new" next to tabs in user settings */
+nav[class^="sidebar__"] > div[class^="side_"] > div[class^="premiumTab__"] > div[class^="premiumLabel_"] > svg, /* nitro icon next to Nitro in user settings */ 
+div[class^="standardSidebarView_"] > div[class^="contentRegion_"] > div[class^="contentTransitionWrap_"] > div[class^="contentRegionScroller_"] > div[class^="contentColumn_"] > div[class^="upsellContainer_"], /* "level up your look" in profiles */
+div[class^="profileCustomizationSection_"] > div[class^="baseLayout_"] > div[class^="sectionsContainer_"] > div[class^="customizationSection_"] > h3 > div[class^="newBadge_"][class*=" baseShapeRound_"], /* "new" next to avatar in profile user settings */
+div[class^="standardSidebarView_"] > div[class^="contentRegion_"] > div[class^="contentTransitionWrap_"] > div[class^="contentRegionScroller_"] > div[class^="contentColumn_"] > div[class^="container__"][style^="background-image:"], /* top banner in profile user settings */
+div[class^="standardSidebarView_"] > div[class^="contentRegion_"] > div[class^="contentTransitionWrap_"] > div[class^="contentRegionScroller_"] > div[class^="contentColumn_"] > div > div[class^="children_"] > div[class^="stack_"] > div > div > div > div > section:nth-child(2), /* colour themes in appearance */
+div[class^="standardSidebarView_"] > div[class^="contentRegion_"] > div[class^="contentTransitionWrap_"] > div[class^="contentRegionScroller_"] > div[class^="contentColumn_"] > div > div[class^="children_"] > div[class^="selectionGroup_"] > div, /* in-app icon in appearance */
+div[class^="page_"] > div > div[class^="chat_"] > div[class^="content_"] > main[class^="chatContent_"] > form[class^="form_"] > div > div[class^="channelBottomBarArea_"] > div[class^="channelTextArea_"] > div > div[class^="inner_"] > div[class^="buttons__"] > div[class^="button__"][class*=" button__"][role="button"]:not(.expression-picker-chat-input-button), /* send Nitro gift in chat box */
+div[class^="page_"] > div > div[class^="chat_"] > div[class^="content_"] > main[class^="chatContent_"] > form[class^="form_"] > div > div[class^="channelBottomBarArea_"] > div[class^="channelTextArea_"] > div > div[class^="inner_"] > div[class^="buttons__"] > div[class^="channelAppLauncher_"], /* app launcher in chat box */
+div[class^="page_"] > div > div[class^="chat_"] > div[class^="content_"] > main[class^="chatContent_"] > form[class^="form_"] > div > div[class^="channelBottomBarArea_"] > div[class^="channelTextArea_"] > div > div[class^="inner_"] > div[class^="buttons__"] > div[class^="expression-picker-chat-input-button"]:has(div[class*=" stickerButton"]), /* sticker button */
+div[class^="sidebarList_"] > nav[class^="container__"] > div[class^="scroller_"] > ul[class^="content__"] > div[class^="container__"][role="button"], /* boost progress in server sidebar */
+div[class^="appAsidePanelWrapper_"] > div[class^="notAppAsidePanel_"] > div[class^="layerContainer_"]:has(div[class^="layer_"] > div[class^="focusLock__"] > div[class^="root"] > video[class^="heroAsset__"]), /* discord orbs pop-up */
+asdsadsa[dsadas] /* prevent commas from being in git diff */
+{
     display: none;
 }
